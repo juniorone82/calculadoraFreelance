@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fuggles', cursive;
+}
+.barra-navegacao{
+    background-color: blueviolet;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    width: 150px;
+    height: 30px;
+    color: blue;
+
+}
+.rodapé{
+    
+}
